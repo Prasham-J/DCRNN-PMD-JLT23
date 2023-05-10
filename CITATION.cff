@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please Cite This Code As Below"
+authors:
+  - family-names: Jain
+    given-names: Prasham
+title: "Deep Convolutional Recurrent Neural Network"
+version: 1.0.0
+doi: https://github.com/Prasham-J/DCRNN-PMD-JLT23
+date-released: 2023-05-09
